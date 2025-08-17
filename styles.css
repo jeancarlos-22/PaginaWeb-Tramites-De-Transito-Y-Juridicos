@@ -1,0 +1,30 @@
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+/* Banner */
+.banner .alert {
+  font-size: 1.5rem;
+  border-radius: 15px;
+  background: linear-gradient(90deg, #ffe259, #ffa751);
+}
+
+/* boton de whatsapp */
+.btn-whatsapp {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  background-color: #25d366;
+  color: white;
+  font-size: 2rem;
+  padding: 20px 20px;
+  border-radius: 50%;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+  z-index: 1000;
+  transition: transform 0.2s ease;
+}
+.btn-whatsapp:hover {
+  transform: scale(1.1);
+  background-color: #20b954;
+  color: white;
+}
