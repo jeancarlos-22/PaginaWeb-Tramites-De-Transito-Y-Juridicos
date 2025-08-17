@@ -14,12 +14,7 @@
 - ⚖️ **Asesorías jurídicas**:
   - Multas, accidentes y apelaciones de tránsito 🚦
   - Divorcios, custodia y pensión alimentaria 👨‍👩‍👧‍👦
-- 📬 **Formulario de contacto** para solicitar servicios
-- 💬 **WhatsApp** integrado para consultas rápidas
-- 👤 Sección "Sobre mí" con información profesional
-- 📱 Diseño **responsivo** y amigable para móviles
-- ❓ Preguntas frecuentes (FAQ) y testimonios de clientes
-- 📝 Blog o sección de consejos legales y de tránsito (opcional)
+
 
 ---
 
